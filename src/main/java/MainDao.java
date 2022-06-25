@@ -23,6 +23,10 @@ public class MainDao {
         user.setEmail("sgrttfa.nawrocki@scorrslab.pl");
         user.setPassword("krek");
         userDao.create(user);
+        //
+        //
+        //
+
 
         //userDao.delete(3);
         //User userToUpdate = userDao.read(1);
